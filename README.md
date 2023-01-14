@@ -8,7 +8,7 @@ Author: **[Afaan Bilal](https://afaan.dev)**
 
 ## Installation
 ````
-pip install hyperdb_py
+pip install hyperdb-py
 ````
 
 ## Example usage
